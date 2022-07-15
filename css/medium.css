@@ -1,0 +1,29 @@
+@media only screen and (min-width:48em){
+	h1{
+		font-size: 2rem;
+	}
+	.numbers-container{
+		width: 60%;
+		margin: 5% auto;
+		padding: 1% 0;
+	}
+
+    .time-container{
+    width: 54%;
+    margin: 5% auto;
+    }
+
+	.time-container span{ 
+        font-size: 317%;
+    
+    } 
+	#action-btn:hover{
+		background: white;
+		color: #28587B;
+		border: 2px solid #28587B;
+	}
+
+	#action-btn{
+		font-size: 1.3rem;
+	}
+}

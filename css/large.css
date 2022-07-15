@@ -1,0 +1,11 @@
+@media (min-width:1024px){
+  .main-container{
+    max-width: 900px;
+    margin: 0 auto;    
+  }  
+    
+    .time-container span{ 
+        font-size: 397%;
+    
+    } 
+}
